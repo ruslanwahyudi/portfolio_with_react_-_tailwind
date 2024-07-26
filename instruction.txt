@@ -1,0 +1,7 @@
+1. setup the color of project
+2. setup fonts
+
+library import
+react scroll : to manage scroll windows
+react icons  : to use icons
+react flowbit : component react library based on tailwind
