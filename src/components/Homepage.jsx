@@ -129,7 +129,7 @@ const Homepage = () => {
                 <p className='text-sm'>© 2024 Ruslan :: Web and Android Dev</p>
                 <p className='text-sm'>Made with ❤️ by Ruslan Wahyudi</p>
               </div>
-              <div className='h-[200px]'></div>
+              <div className='h-[100px]'></div>
         </div>
         
     </>
